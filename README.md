@@ -1,0 +1,1 @@
+# akciju_kainos_judejimas
