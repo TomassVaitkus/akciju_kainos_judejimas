@@ -21,3 +21,8 @@ Naudojami library:
 Nauda:
 
 Sudarytame grafike galima matyti trendus, fletus, daryti technines analizes, numatyti tolimesni akciju vertes judejima.
+
+DARBO EIGA:
+
+1) Surenkame informacija kiekvienai akcijai atskirai.
+2) 
