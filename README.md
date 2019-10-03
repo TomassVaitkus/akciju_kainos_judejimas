@@ -26,4 +26,7 @@ DARBO EIGA:
 
 1) Surenkame informacija kiekvienai akcijai atskirai.
 ![](c:\\Users\tvvai\OneDrive\Desktop\Screenshot_1.png)
+2) Gauname duomenis:
+![Screenshot_2](https://user-images.githubusercontent.com/40127726/66122485-7931f000-e5e8-11e9-8ddc-5c7549b56d94.png)
+
 
