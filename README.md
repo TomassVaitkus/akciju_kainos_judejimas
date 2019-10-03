@@ -20,7 +20,7 @@ Naudojami library, Modules:
 
 Nauda:
 
-Sudarytame grafike galima matyti trendus, fletus, daryti technines analizes, numatyti tolimesni galima akciju vertes judejima.
+Sudarytame grafike galima matyti trendus, fletus, daryti technines analizes, numatyti tolimesni galima akciju vertes judejima. Kaupiant duomenis duomenu bazeje galima sukurti automatizuota tinkamu signalu prekybai gavima.
 
 DARBO EIGA:
 
