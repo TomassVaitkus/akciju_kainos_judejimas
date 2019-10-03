@@ -12,11 +12,11 @@ Priemones:
 Python 3.7
 VSCode
 Naudojami library:
-	Datetime
-	Matplotlib.pyplot
-	Matplotlib
-	Pandas
-	Pandas_datareader
+	Datetime,
+	Matplotlib.pyplot,
+	Matplotlib,
+	Pandas,
+	Pandas_datareader,
 
 Nauda:
 
