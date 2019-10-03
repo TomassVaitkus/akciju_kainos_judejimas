@@ -25,8 +25,10 @@ Sudarytame grafike galima matyti trendus, fletus, daryti technines analizes, num
 DARBO EIGA:
 
 1) Surenkame informacija kiekvienai akcijai atskirai.
-https://github.com/Shliosen/akciju_kainos_judejimas/issues/1#issue-502002121
+![Screenshot_1](https://user-images.githubusercontent.com/40127726/66122273-f3ae4000-e5e7-11e9-83fa-81d60aa784cc.png)
+
 2) Gauname duomenis:
+
 ![Screenshot_2](https://user-images.githubusercontent.com/40127726/66122485-7931f000-e5e8-11e9-8ddc-5c7549b56d94.png)
 
 
