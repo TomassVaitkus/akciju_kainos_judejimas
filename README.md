@@ -11,7 +11,7 @@ Priemones:
 
 Python 3.7
 VSCode
-Naudojami library:
+Naudojami library, Modules:
 	Datetime,
 	Matplotlib.pyplot,
 	Matplotlib,
