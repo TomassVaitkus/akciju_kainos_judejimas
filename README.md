@@ -25,4 +25,5 @@ Sudarytame grafike galima matyti trendus, fletus, daryti technines analizes, num
 DARBO EIGA:
 
 1) Surenkame informacija kiekvienai akcijai atskirai.
-2) 
+![](c:\\Users\tvvai\OneDrive\Desktop\Screenshot_1.png)
+
