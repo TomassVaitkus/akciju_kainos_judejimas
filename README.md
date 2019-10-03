@@ -6,7 +6,7 @@ Tikslas:
 Paimti informacija is Yahoo.com, ja atvaizduoti GUI
 Pasirinktu akciju atidarymo kaina, dienos auksciausia kaina, dienos zemiausia kaina, dienos uzdarymo kaina.
 Atvaizduoti kainas japoniskomis zvakemis
-
+fujuj
 Priemones:
 
 Python 3.7
