@@ -1,3 +1,9 @@
+# # naudojamai informacijos saltiniai:
+# https://www.tutorialspoint.com/python/python_gui_programming.htm
+# https://www.w3schools.com/colors/colors_picker.asp
+
+
+
 HEIGHT = 500
 WIDTH = 500
 
