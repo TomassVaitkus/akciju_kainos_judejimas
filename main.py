@@ -42,7 +42,4 @@ ax2.fill_between(df_volume.index.map(mdates.date2num), df_volume.values, 0)
 
 plt.show()
 
-# df1 = web.DataReader('TSLA', 'yahoo', start, end)
-
-
 # one_entry = [stock_id, open_price, close_price, price_low, price_max, volume]
