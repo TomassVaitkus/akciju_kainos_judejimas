@@ -1,5 +1,5 @@
 # akciju_kainos_judejimas
-
+Idomu ar pasikeite
 Projektas NR1.
 
 Tikslas: 
